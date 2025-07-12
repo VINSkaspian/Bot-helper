@@ -1,0 +1,16 @@
+# Віртуальне середовище
+venv/
+.env
+
+# Дані користувача
+__pycache__/
+*.pyc
+data/*.bin
+
+# IDE файли
+.idea/
+.vscode/
+
+# Системні файли
+.DS_Store
+Thumbs.db
